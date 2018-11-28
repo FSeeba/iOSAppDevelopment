@@ -6,7 +6,7 @@ import UIKit
 var msg = "Welcome to Swift 3"
 
 var count = 0
-
+//Wiederholen
 while (count < 100){
     // block of code
  print(msg) // block
