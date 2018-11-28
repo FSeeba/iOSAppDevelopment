@@ -25,7 +25,7 @@ repeat
 
 
 
-//Schrein " " 1 bis 5
+//Schreib " " 1 bis 5
 for x in 1...5 {
   // block of code
     print("For loop counter \(x)")
